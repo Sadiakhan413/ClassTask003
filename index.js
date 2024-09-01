@@ -40,6 +40,8 @@ document.getElementById("answer-2").addEventListener("click", checkAnswer);
 document.getElementById("answer-3").addEventListener("click", checkAnswer);
 document.getElementById("answer-4").addEventListener("click", checkAnswer);
 
+document.getElementById("next-question").addEventListener("click", nextQuestion);
+
 function nextQuestion() {
 
 }
