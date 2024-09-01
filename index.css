@@ -1,0 +1,39 @@
+body {
+	background-color: #f0f0f0;
+	font-family: Arial, sans-serif;
+}
+
+.question-area {
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+	background-color: #4CAF50;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
+#score {
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+#next-question {
+	background-color: #007bff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
